@@ -1,0 +1,2 @@
+
+<nav align="center">|<a href="tr_addstd.jsp">add student</a>|<a href="tr_viewques.jsp">View query</a>|<a href="tr_history.jsp">Answer History</a>|<a href="changepassword.jsp">change password</a>|<a href="logout?sess=trusername">logout</a>|</nav>

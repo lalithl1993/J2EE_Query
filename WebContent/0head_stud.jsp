@@ -1,0 +1,2 @@
+
+<nav align="center">|<a href="stud_ask.jsp">Ask question</a>|<a href="stud_history.jsp">History</a>|<a href="stud_viewall.jsp" >View all query </a>|<a href="changepassword_stud.jsp">Change Password</a>|<a href="logout?sess=stusername">logout</a>|</nav>
